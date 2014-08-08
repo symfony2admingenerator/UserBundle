@@ -16,10 +16,7 @@ Don't miss any updates from **Symfony2 Admin Generator**! Join Twitter today and
 
 ## How to setup
 
-# Installation via composer
----------------------------------------
-
-### 1. Download files
+### Download files
 
 Add Admingenerator to your `composer.json`:
 
