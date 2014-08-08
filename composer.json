@@ -1,0 +1,30 @@
+{
+    "name": "symfony2admingenerator/user-bundle",
+    "description": "FOSUserBundle integration for Symfony2Admingenerator.",
+    "type": "symfony-bundle",
+    "homepage": "http://symfony2admingenerator.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cedric LOMBARDOT",
+            "email": "cedric.lombardot@gmail.com"
+        },
+        {
+            "name": "Symfony Community",
+            "homepage": "http://github.com/symfony2admingenerator/UserBundle/contributors"
+        }
+    ],
+    "require": {
+        "symfony2admingenerator/generator-bundle": "dev-master",
+        "friendsofsymfony/user-bundle": "*"
+    },
+    "target-dir": "Admingenerator/UserBundle",
+    "autoload": {
+        "psr-0": { "Admingenerator\\UserBundle": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0-dev"
+        }
+    }
+}

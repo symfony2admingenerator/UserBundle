@@ -1,0 +1,9 @@
+{% extends_my_configured_layout 'admingenerator.user_login_template' %}
+
+{% block title %}{{ 'security.authentication'|trans({}, 'FOSUserBundle') }}{% endblock %}
+
+{% block body %}
+    <div class="row-fluid">
+        {% block fos_user_content %}{% endblock %}
+    </div>
+{% endblock %}
