@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "symfony2admingenerator/generator-bundle": "dev-master",
+        "symfony2admingenerator/generator-bundle": "v2.0-beta.1",
         "friendsofsymfony/user-bundle": "*"
     },
     "target-dir": "Admingenerator/UserBundle",
