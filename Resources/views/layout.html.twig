@@ -2,8 +2,12 @@
 
 {% block title %}{{ 'security.authentication'|trans({}, 'FOSUserBundle') }}{% endblock %}
 
-{% block body %}
+{% block page_header_content %}
+    <h1>{{ 'security.authentication'|trans({}, 'FOSUserBundle') }}</h1>
+{% endblock page_header_content %}
+
+{% block page_content %}
     <div class="row-fluid">
         {% block fos_user_content %}{% endblock %}
     </div>
-{% endblock %}
+{% endblock page_content %}
