@@ -1,3 +1,5 @@
+# AdminGenerator UserBundle
+
 [![KnpBundles Badge](http://knpbundles.com/symfony2admingenerator/GeneratorBundle/badge-short)](http://knpbundles.com/symfony2admingenerator/GeneratorBundle)
 
 This package is a part of the [Symfony2 Admin Generator](https://github.com/symfony2admingenerator/GeneratorBundle) based on YAML configuration and Twig templating.
