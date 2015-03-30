@@ -1,10 +1,6 @@
-# Symfony2 Admin Generator User Bundle
----------------------------------------
+# AdminGenerator UserBundle
 
 [![KnpBundles Badge](http://knpbundles.com/symfony2admingenerator/GeneratorBundle/badge-short)](http://knpbundles.com/symfony2admingenerator/GeneratorBundle)
-![project status](http://stillmaintained.com/symfony2admingenerator/UserBundle.png)
-[![Latest Stable Version](https://poser.pugx.org/symfony2admingenerator/user-bundle/v/stable.png)](https://packagist.org/packages/symfony2admingenerator/user-bundle)
-[![Total Downloads](https://poser.pugx.org/symfony2admingenerator/user-bundle/downloads.png)](https://packagist.org/packages/symfony2admingenerator/user-bundle)
 
 This package is a part of the [Symfony2 Admin Generator](https://github.com/symfony2admingenerator/GeneratorBundle) based on YAML configuration and Twig templating.
 
