@@ -1,0 +1,4 @@
+fos_user_security_login:            Uwierzytelnianie
+fos_user_registration_register:     Rejestracja
+fos_user_registration_check_email:  Sprawdź email
+fos_user_registration_confirmed:    Potwierdzenie rejestracji
