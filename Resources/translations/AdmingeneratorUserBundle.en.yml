@@ -1,3 +1,2 @@
-security:
-  authentication:   Authentication
-  registration:     Registration
+fos_user_security_login:            Authentication
+fos_user_registration_register:     Registration
