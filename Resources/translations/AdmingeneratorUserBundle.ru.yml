@@ -1,2 +1,1 @@
-security:
-  authentication:   Идентификация
+fos_user_security_login:            Идентификация
