@@ -4,3 +4,4 @@ fos_user_registration_check_email:  Check email
 fos_user_registration_confirmed:    Registration confirmed
 fos_user_resetting_request:         Resetting password
 fos_user_resetting_check_email:     Check email
+fos_user_resetting_reset:           Resetting password
