@@ -2,3 +2,4 @@ fos_user_security_login:            Authentication
 fos_user_registration_register:     Registration
 fos_user_registration_check_email:  Check email
 fos_user_registration_confirmed:    Registration confirmed
+fos_user_resetting_request:         Resetting password
