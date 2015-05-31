@@ -1,1 +1,7 @@
 fos_user_security_login:            Идентификация
+fos_user_registration_register:     Регистрация
+fos_user_registration_check_email:  Проверьте электронную почту
+fos_user_registration_confirmed:    Регистрация подтверждена
+fos_user_resetting_request:         Сброс пароля
+fos_user_resetting_check_email:     Проверьте электронную почту
+fos_user_resetting_reset:           Сброс пароля
