@@ -4,7 +4,11 @@
 {% if error %}
     <div class="alert alert-danger alert-dismissable">
         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-        {{ error|trans({}, 'FOSUserBundle') }}
+        {% if error is iterable %}
+            {{ error.messageKey|trans(error.messageData, 'security') }}
+        {% else %} 
+            {{ error|trans({}, 'FOSUserBundle') }}
+        {% endif %}
     </div>
 {% endif %}
 
